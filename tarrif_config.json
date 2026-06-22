@@ -1,0 +1,17 @@
+{
+  "Residential": [
+    {"limit": 20, "rate": 20},
+    {"limit": 50, "rate": 35},
+    {"limit": "above", "rate": 50}
+  ],
+  "Commercial": [
+    {"limit": 30, "rate": 40},
+    {"limit": 80, "rate": 60},
+    {"limit": "above", "rate": 90}
+  ],
+  "Industrial": [
+    {"limit": 50, "rate": 60},
+    {"limit": 100, "rate": 80},
+    {"limit": "above", "rate": 120}
+  ]
+}

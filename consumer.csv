@@ -1,0 +1,5 @@
+id	type	consumption	due_days
+C001	Residential	25	2
+C002	Commercial	60	5
+C003	Industrial	120	1
+C004	Residential	10	0
